@@ -1,4 +1,4 @@
-**Router_Detial API's Project on Django framework of Python**
+# **Router_Detial API's Project on Django framework of Python**
 The project provides 2 API's. One is just to view all the router_details and the other is to retrive, update and delete the router details from the database table. The project uses the default sqlite database provided by Django framework of python.
 
 # Local setup of the application
